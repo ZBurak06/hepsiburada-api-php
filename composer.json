@@ -1,13 +1,13 @@
 {
-  "name": "mustafa-m-ugur/hepsiburada-php-api",
+  "name": "zburak06/hepsiburada-php-api",
   "description": "HEPSIBURADA API PHP",
   "type": "library",
   "keywords": ["hepsiburada", "e-commerce", "api", "marketplaces", "php", "integration"],
   "license": "MIT",
   "authors": [
     {
-      "name": "Mustafa UĞUR",
-      "email": "mustafa.m.ugur27@gmail.com"
+      "name": "Burak Işıktaş",
+      "email": "burakisiktas06@hotmail.com"
     }
   ],
   "autoload": {
