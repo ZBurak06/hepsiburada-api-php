@@ -4,12 +4,12 @@ Hepsiburada PHP Entegrasyonu
 
 ### License
 
-- See [ChangeLog](https://github.com/mustafa-m-ugur/hepsiburada-api-php/blob/main/LICENSE)
+- See [ChangeLog](https://github.com/zburak06/hepsiburada-api-php/blob/main/LICENSE)
 
 ## Setup
 
 ```php
-composer require mustafa-m-ugur/hepsiburada-api-php
+composer require zburak06/hepsiburada-api-php
 ```
 
 ## Client
